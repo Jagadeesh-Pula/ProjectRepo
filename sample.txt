@@ -1,5 +1,17 @@
 to commit the files to git
 
+If it is new :- 
+
+echo "# Core-Java" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Jagadeesh-Pula/Core-Java.git
+git push -u origin main
+
+
+commited files changes:-
 1.git add "file Name with .extension"
 2.git commit -m "message"
 3.git push
