@@ -1,0 +1,5 @@
+to commit the files to git
+
+1.git add "file Name with .extension"
+2.git commit -m "message"
+3.git push
